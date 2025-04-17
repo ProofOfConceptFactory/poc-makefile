@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 
 ```console
-https://github.com/abdounikarim/poc-makefile
+https://github.com/ProofOfConceptFactory/poc-makefile
 ```
 
 Go on the project root folder:
