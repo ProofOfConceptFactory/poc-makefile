@@ -23,6 +23,9 @@ Go on the project root folder:
 cd poc-makefile
 ```
 
+Usage
+-----
+
 Execute this command to run the app:
 
 ```console
@@ -31,4 +34,16 @@ make hello-from-makefile
 
 That's it 🚀
 
+Tests
+-----
+
+Execute this command to run tests:
+
+```console
+test/bats/bin/bats test.bats
+```
+
+If you want to know more about bats, you can check [Bats][2].
+
 [1]: https://www.gnu.org/software/make/
+[2]: https://bats-core.readthedocs.io/en/stable/
